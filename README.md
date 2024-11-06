@@ -8,4 +8,4 @@ En este repositorio, se va a ilustrar el uso de dos librerías bastante conocida
 
  Dichos notebooks se han ejecutado en Google Colab (Python 3.10.12) haciendo uso de una carpeta "data" que se encuentra subida a este repositorio.
  
- Al ejecutar dichos notebooks, comprobar que la variable que hace referencia al directorio donde se encuentra la carpeta data (`path`) se encuentra actualizada.
+ Al ejecutarlos, comprobar que la variable que hace referencia al directorio donde se encuentra la carpeta data (`path`) se encuentra actualizada.
